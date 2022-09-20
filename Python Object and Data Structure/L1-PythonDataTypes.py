@@ -6,5 +6,5 @@ Lists - list - ordered sequence of objects: [10, hello, 200.3]
 Dictionaries - dict- Unordered Key:Value pairs: {"mykey":"value","name":"Frankie"}
 Tuples - tup - Ordered Immutable Sequence of objects: (10, "Hello", 200.3)
 Sets - set - Unordered collection of unique objects: {"a","b"}
-Booleans - bool - Logical value indicating True or False 
+Booleans - bool - Logical value indicating "True" or "False" 
 """
